@@ -1,0 +1,15 @@
+D:\تسليم c#\task6csharp\task6csharp\bin\Debug\net5.0\task6csharp.exe
+D:\تسليم c#\task6csharp\task6csharp\bin\Debug\net5.0\task6csharp.deps.json
+D:\تسليم c#\task6csharp\task6csharp\bin\Debug\net5.0\task6csharp.runtimeconfig.json
+D:\تسليم c#\task6csharp\task6csharp\bin\Debug\net5.0\task6csharp.runtimeconfig.dev.json
+D:\تسليم c#\task6csharp\task6csharp\bin\Debug\net5.0\task6csharp.dll
+D:\تسليم c#\task6csharp\task6csharp\bin\Debug\net5.0\task6csharp.pdb
+D:\تسليم c#\task6csharp\task6csharp\obj\Debug\net5.0\task6csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\تسليم c#\task6csharp\task6csharp\obj\Debug\net5.0\task6csharp.AssemblyInfoInputs.cache
+D:\تسليم c#\task6csharp\task6csharp\obj\Debug\net5.0\task6csharp.AssemblyInfo.cs
+D:\تسليم c#\task6csharp\task6csharp\obj\Debug\net5.0\task6csharp.csproj.CoreCompileInputs.cache
+D:\تسليم c#\task6csharp\task6csharp\obj\Debug\net5.0\task6csharp.dll
+D:\تسليم c#\task6csharp\task6csharp\obj\Debug\net5.0\refint\task6csharp.dll
+D:\تسليم c#\task6csharp\task6csharp\obj\Debug\net5.0\task6csharp.pdb
+D:\تسليم c#\task6csharp\task6csharp\obj\Debug\net5.0\task6csharp.genruntimeconfig.cache
+D:\تسليم c#\task6csharp\task6csharp\obj\Debug\net5.0\ref\task6csharp.dll
